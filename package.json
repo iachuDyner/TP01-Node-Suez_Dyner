@@ -1,0 +1,21 @@
+{
+  "name": "tp01-node-Suez_Dyner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iachuDyner/TP01-Node-Suez_Dyner.git"
+  },
+  "keywords": [],
+  "author": "Suez y Dyner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iachuDyner/TP01-Node-Suez_Dyner/issues"
+  },
+  "homepage": "https://github.com/iachuDyner/TP01-Node-Suez_Dyner#readme"
+}
